@@ -1,12 +1,6 @@
 # How To Install
 
-android
- └ app
-    └ build
-       └ outputs
-          └ apk
-             └ debug
-                └ app-debug.apk
+android/app/build/outputs/apk/debug/app-debug.apk
 
 **Download "app-debug.apk"** 
 
