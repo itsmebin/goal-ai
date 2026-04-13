@@ -1,3 +1,15 @@
+# How To Install
+
+android
+ └ app
+    └ build
+       └ outputs
+          └ apk
+             └ debug
+                └ app-debug.apk
+
+**Download "app-debug.apk"** 
+
 # Goal Description
 
 The goal is to transform the frontend-only UI mockup into a functional application by:
